@@ -22,6 +22,7 @@ PRODUCT_PROPERTY_OVERRIDES := \
 
 PRODUCT_PACKAGES += \
     ContactsProvider \
+    Camera2 \
     DefaultContainerService \
     Launcher3 \
     TelephonyProvider \
